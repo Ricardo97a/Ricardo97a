@@ -18,6 +18,7 @@ Desarrollo de back-end: Utilizo ASP.NET, JavaScript, Java.
 Base de datos: Utilizo Sql Server y MySql.
 
 <h3 align="left">Conéctate conmigo:</h3>
+[![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/ricardo-ramirez-a68635220)
 [![linkedin](https://img.shields.io/static/v1?label=&message=linkedin&color=0e76a8&logo=linkedin&logoColor=white&style=for-the-badge)](https://https://www.linkedin.com/in/ricardo-ramirez-a68635220)
 ricardo.o97.rr@gmail.com <p align="left">
     
